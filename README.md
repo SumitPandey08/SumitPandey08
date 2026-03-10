@@ -42,7 +42,7 @@ I am a **Full-Stack Developer** and **B.Tech CSE**  with a deep interest in buil
   <a href="mailto:sp.sumitpandey06@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/sumit-pandey">
+  <a href="https://www.linkedin.com/in/sumit-pandey-250271290/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://instagram.com/_sumitpandey08">
